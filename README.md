@@ -1,2 +1,2 @@
 # lunarkukar
-Collection on lunarkukar string generators
+Collection of lunarkukar string generators
